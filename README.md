@@ -1,4 +1,3 @@
-This is not an original project, I coded it along with a youtube video as my first ever react project and my first repo as well. I plan to give it my personal touches in future to make it more original.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
